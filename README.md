@@ -1,4 +1,4 @@
-# issue-tracker
-Issue tracker for Cardsity
+# Cardsity issue tracker
+This repository is only for reporting issues and requesting features
 
-You can submit issues [here](https://github.com/Cardsity/issue-tracker/issues)
+You can submit them [here](https://github.com/Cardsity/issue-tracker/issues)
